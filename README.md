@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aamish<br>💻 Full-Stack Developer | React • Node.js • MongoDB<br>🤖 Building AI-powered & real-world web applications<br>🚀 Turning ideas into interactive digital experiences<br>🌱 Currently exploring AI/ML, APIs & modern web technologies<br>🧩 I love solving problems and learning by building<br>🤝 Open to collaborations, projects & new opportunities<br>⚡ Fun fact: I’d rather build it than just talk about it!
+👋 Hi, I’m Aamishdilshad<br>💻 Full-Stack Developer | React • Node.js • MongoDB<br>🤖 Building AI-powered & real-world web applications<br>🚀 Turning ideas into interactive digital experiences<br>🌱 Currently exploring AI/ML, APIs & modern web technologies<br>🧩 I love solving problems and learning by building<br>🤝 Open to collaborations, projects & new opportunities<br>⚡ Fun fact: I’d rather build it than just talk about it!
 
 
 ## 🌐 Socials:
